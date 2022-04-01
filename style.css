@@ -1,0 +1,53 @@
+@charset "UTF-8";
+body{
+    background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#titulo{
+    background-color: grey;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+#corpo{
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+}
+.conteudo{
+    background-color: azure;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+#boxpatro{
+    height: 200px;
+}
+#boxbem{
+    height: 149px;
+}
+#boxent{
+    height: 49px;
+}
+#footer{
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
